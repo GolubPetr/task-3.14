@@ -1,4 +1,4 @@
-[< к содержанию](./readme.md)
+[< в начало](maincom.md)
 
 ## Git add
 
