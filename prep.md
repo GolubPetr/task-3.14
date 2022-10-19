@@ -19,15 +19,13 @@ http://gitscm.com/downloads
 
 &ensp;
 &#8194;
-"git config -- global user.name "Golub Petr"
+"git config -- global user.name "Ваше имя"
 
 &ensp;
 &#8194;
-"git config -- global user.email "golub@gmail.com"
+"git config -- global user.email "Ваш емейл"
 
-&ensp;
-&#8194;
-(вы, естественно, подставляете свои имя и email)
+
 
 
 [< к содержанию](./readme.md)
