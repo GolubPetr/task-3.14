@@ -27,7 +27,7 @@ with a README "
 Нажимаем кнопку "Create repository ". 
 
 Репозиторий создан! Теперь он доступен по адресу
-https://github.com/golub/test.
+https://github.com/GolubPetr/test.
 Репозиторий, находящийся на GitHub, мы будем называть главным. 
 
 [< к содержанию](./readme.md)

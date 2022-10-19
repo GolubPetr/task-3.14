@@ -12,7 +12,7 @@
 
 &ensp;
 &#8194;
-**git clone** https://github.com/golub/test
+**git clone** https://github.com/GolubPetr/test
 **cd test** 
 (не забыть перейти в каталог репозитория)
 

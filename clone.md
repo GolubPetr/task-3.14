@@ -7,6 +7,6 @@
 git clone <url главного репозитория, копия которого необходима>
 Например, если необходима копия репозитория, созданного в разделе [Создание репозитория на GitHub](newrep.md) вводится команда:
 
-git clone https://github.com/golub/test
+**git clone** https://github.com/GolubPetr/test
 
 [> далее](pull.md)
